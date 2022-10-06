@@ -1,6 +1,7 @@
 # learning-journey
 My learning-journey:
 
+##### 06.10.2022 - Today I learned about how to work with conditional state and finished the todolist project.
 ##### 05.10.2022 - Today I learned about how to render lists and started a todolist project.
 ##### 04.10.2022 - Today I learned about how to listen to User Input and how to move up state. 
 ##### 03.10.2022 - Today I learned about state and how to use it with React.js.
