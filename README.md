@@ -1,7 +1,7 @@
 # learning-journey
 My learning-journey:
 
-##### 08.10.2022 - Continued to learn about conditional styling.
+##### 09.10.2022 - Continued to learn about conditional styling.
 ##### 08.10.2022 - Had no time to code.
 ##### 07.10.2022 - I started to learn about conditional styling.
 ##### 06.10.2022 - Today I learned about how to work with conditional state and finished the todolist project.
