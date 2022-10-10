@@ -1,6 +1,7 @@
 # learning-journey
 My learning-journey:
 
+##### 10.10.2022 - I have built an practice project with React.js.
 ##### 09.10.2022 - Continued to learn about conditional styling.
 ##### 08.10.2022 - Had no time to code.
 ##### 07.10.2022 - I started to learn about conditional styling.
