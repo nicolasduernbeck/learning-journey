@@ -1,6 +1,8 @@
 # learning-journey
 My learning-journey:
 
+##### 12.10.2022 - I have completed the Playerlist and I learned about Portals, Refs and Fragments
+##### 11.10.2022 - I have built an Playerlist with React.js.
 ##### 10.10.2022 - I have built an practice project with React.js.
 ##### 09.10.2022 - Continued to learn about conditional styling.
 ##### 08.10.2022 - Had no time to code.
