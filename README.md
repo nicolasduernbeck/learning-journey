@@ -1,6 +1,7 @@
 # learning-journey
 My learning-journey:
 
+##### 13.10.2022 - Built an Discord Bot and learned about useReducer and useEffect. 
 ##### 12.10.2022 - I have completed the Playerlist and I learned about Portals, Refs and Fragments
 ##### 11.10.2022 - I have built an Playerlist with React.js.
 ##### 10.10.2022 - I have built an practice project with React.js.
