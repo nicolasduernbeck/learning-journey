@@ -1,6 +1,7 @@
 # learning-journey
 My learning-journey:
 
+##### 15.10.2022 - Started a bigger project to repeat all Hooks. 
 ##### 14.10.2022 - Learned about the Context API and the Rules of Hooks. 
 ##### 13.10.2022 - Built an Discord Bot and learned about useReducer and useEffect. 
 ##### 12.10.2022 - I have completed the Playerlist and I learned about Portals, Refs and Fragments
