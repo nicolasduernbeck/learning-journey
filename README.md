@@ -1,7 +1,9 @@
 # learning-journey
 My learning-journey:
 
-##### 16.10.2022 - Learned about Content Types, Routing ans Status Codes. 
+##### 19.10.2022 - Learned about packages and how to use them.
+##### 18.10.2022 - I learned about modules.
+##### 17.10.2022 - Learned about Content Types, Routing ans Status Codes. 
 ##### 16.10.2022 - I continued with my Practice project and started Jonas Udemy Course about Node.js. 
 ##### 15.10.2022 - Started a bigger project to repeat all about Hooks. 
 ##### 14.10.2022 - Learned about the Context API and the Rules of Hooks. 
