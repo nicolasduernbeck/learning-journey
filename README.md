@@ -1,6 +1,8 @@
 # learning-journey
 My learning-journey:
 
+##### 21.10.2022 - Learned about Modules and Streams.
+##### 20.10.2022 - I learned about how Node works in the Background and worked on a project.
 ##### 19.10.2022 - Learned about packages and how to use them.
 ##### 18.10.2022 - I learned about modules.
 ##### 17.10.2022 - Learned about Content Types, Routing ans Status Codes. 
