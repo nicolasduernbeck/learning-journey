@@ -1,6 +1,7 @@
 # learning-journey
 My learning-journey:
 
+##### 22.10.2022 - I refreshed my knowledge about Asynchronous Javascript.
 ##### 21.10.2022 - Learned about Modules and Streams.
 ##### 20.10.2022 - I learned about how Node works in the Background and worked on a project.
 ##### 19.10.2022 - Learned about packages and how to use them.
