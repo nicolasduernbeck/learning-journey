@@ -1,6 +1,7 @@
 # learning-journey
 My learning-journey:
 
+##### 24.10.2022 - Learned about express - Routers. 
 ##### 24.10.2022 - I learned about the Request Response Cycle.
 ##### 23.10.2022 - Learned about express and basic Routing. 
 ##### 22.10.2022 - I refreshed my knowledge about Asynchronous Javascript.
