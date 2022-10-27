@@ -1,7 +1,8 @@
 # learning-journey
 My learning-journey:
 
-##### 25.10.2022 - Learned about CRUD using MongoDB.
+##### 27.10.2022 - I learned about mongoose and how to CReate Documents with it. 
+##### 26.10.2022 - Learned about CRUD using MongoDB.
 ##### 25.10.2022 - Learned about express - Routers. 
 ##### 24.10.2022 - I learned about the Request Response Cycle.
 ##### 23.10.2022 - Learned about express and basic Routing. 
