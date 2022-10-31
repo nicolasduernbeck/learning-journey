@@ -1,6 +1,7 @@
 # learning-journey
 My learning-journey:
 
+##### 31.10.2022 - Learned about Aggregation. 
 ##### 30.10.2022 - I learned about mongoose aliasing. 
 ##### 29.10.2022 - I learned filtering and sorting with mongodb / mongoose. 
 ##### 28.10.2022 - Learned about CRUD Operations with Mongoose and I created a simple API - Project. 
