@@ -1,6 +1,7 @@
 # learning-journey
 My learning-journey:
 
+##### 02.11.2022 - Worked on a new Portfolio website.
 ##### 01.11.2022 - Learned about Document and Query Middleware.
 ##### 31.10.2022 - Learned about Aggregation. 
 ##### 30.10.2022 - I learned about mongoose aliasing. 
