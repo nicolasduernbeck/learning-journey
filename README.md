@@ -1,7 +1,7 @@
 # learning-journey
 My learning-journey:
 
-##### 04.11.2022 - Learned about Debugging with ndb.
+##### 05.11.2022 - Learned about Debugging with ndb.
 ##### 04.11.2022 - Learned about advanced Validation and I worked on my portfolio.
 ##### 03.11.2022 - Had no time to code. 
 ##### 02.11.2022 - Worked on a new Portfolio website.
