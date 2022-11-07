@@ -1,7 +1,8 @@
 # learning-journey
 My learning-journey:
 
-##### 06.11.2022 - Continued to learn about Error Handling with express
+##### 07.11.2022 - Worked on my portfolio and learned about error Handling. 
+##### 06.11.2022 - Continued to learn about Error Handling with express.
 ##### 05.11.2022 - Learned about Debugging with ndb.
 ##### 04.11.2022 - Learned about advanced Validation and I worked on my portfolio.
 ##### 03.11.2022 - Had no time to code. 
