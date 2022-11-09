@@ -1,6 +1,7 @@
 # learning-journey
 My learning-journey:
 
+##### 09.11.2022 - Learned how JWT works and worked on my Portfolio.
 ##### 08.11.2022 - Created the type animation for my Portfolio. 
 ##### 07.11.2022 - Worked on my portfolio and learned about error Handling. 
 ##### 06.11.2022 - Continued to learn about Error Handling with express.
