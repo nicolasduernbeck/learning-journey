@@ -1,6 +1,7 @@
 # learning-journey
 My learning-journey:
 
+##### 12.11.2022 - Created a bot for a hackathon.
 ##### 11.11.2022 - Continued about learning JWT.  
 ##### 10.11.2022 - Learned about bcrypt. 
 ##### 09.11.2022 - Learned how JWT works and worked on my Portfolio.
