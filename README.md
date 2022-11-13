@@ -1,6 +1,7 @@
 # learning-journey
 My learning-journey:
 
+##### 13.11.2022 - Worked on the hackathon bot and learned about nodemailer.
 ##### 12.11.2022 - Created a bot for a hackathon and learned about nodemailer. 
 ##### 11.11.2022 - Continued about learning JWT.  
 ##### 10.11.2022 - Learned about bcrypt. 
