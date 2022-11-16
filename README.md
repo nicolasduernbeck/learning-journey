@@ -1,6 +1,7 @@
 # learning-journey
 My learning-journey:
 
+##### 16.11.2022 - Started an API Project to repeat everything I have learned. 
 ##### 15.11.2022 - Learned about rate-limiting and security headers. 
 ##### 14.11.2022 - Learned about mongoose, JWT, and bcrypt.
 ##### 13.11.2022 - Worked on the hackathon bot and learned about nodemailer.
