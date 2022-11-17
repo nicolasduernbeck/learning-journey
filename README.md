@@ -1,6 +1,7 @@
 # learning-journey
 My learning-journey:
 
+##### 17.11.2022 - Added error handling to the API. 
 ##### 16.11.2022 - Started an API Project to repeat everything I have learned. 
 ##### 15.11.2022 - Learned about rate-limiting and security headers. 
 ##### 14.11.2022 - Learned about mongoose, JWT, and bcrypt.
