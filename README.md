@@ -1,6 +1,7 @@
 # learning-journey
 My learning-journey:
 
+##### 20.11.2022 - Learned about Data Modelling and populating.  
 ##### 19.11.2022 - Implemented email verification and returned to the course. 
 ##### 18.11.2022 - Worked on the Error Handling and email sending. 
 ##### 17.11.2022 - Added error handling to the API. 
