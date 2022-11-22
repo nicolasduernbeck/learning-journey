@@ -1,6 +1,7 @@
 # learning-journey
 My learning-journey:
 
+##### 22.11.2022 - Finished my portfolio website. 
 ##### 21.11.2022 - Learned more about populating and learned TypeScript. 
 ##### 20.11.2022 - Learned about Data Modelling and populating.  
 ##### 19.11.2022 - Implemented email verification and returned to the course. 
