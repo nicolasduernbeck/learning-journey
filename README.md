@@ -1,7 +1,8 @@
 # learning-journey
 My learning-journey:
 
-##### 24.11.2022 - Learned about nestes Objects in TypeScript.
+##### 25.11.2022 - Learned about Enums and Union Types.
+##### 24.11.2022 - Learned about nested Objects in TypeScript.
 ##### 23.11.2022 - Learned about Mongo DB Indexes.  
 ##### 22.11.2022 - Finished my portfolio website. 
 ##### 21.11.2022 - Learned more about populating and learned TypeScript. 
