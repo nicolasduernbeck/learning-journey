@@ -1,6 +1,7 @@
 # learning-journey
 My learning-journey:
 
+##### 26.11.2022 - Worked on the shortify api and learned about aggregation. 
 ##### 25.11.2022 - Learned about Enums and Union Types.
 ##### 24.11.2022 - Learned about nested Objects in TypeScript.
 ##### 23.11.2022 - Learned about Mongo DB Indexes.  
