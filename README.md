@@ -1,6 +1,7 @@
 # learning-journey
 My learning-journey:
 
+##### 28.11.2022 - Learned about server side rendering with pug templates.
 ##### 27.11.2022 - Worked on the shortify error handling and continued with the node course. 
 ##### 26.11.2022 - Worked on the shortify api and learned about aggregation. 
 ##### 25.11.2022 - Learned about Enums and Union Types.
