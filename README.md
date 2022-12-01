@@ -1,6 +1,7 @@
 # learning-journey
 My learning-journey:
 
+##### 01.12.2022 - Worked on the blog. 
 ##### 30.11.2022 - Learned about more about pug and worked on a Blog. 
 ##### 29.11.2022 - I learned more about pug. 
 ##### 28.11.2022 - Learned about server side rendering with pug templates.
