@@ -1,7 +1,8 @@
 # learning-journey
 My learning-journey:
 
-##### 03.12.2022 - Learned about authentication and conditionsl rendering.
+##### 04.12.2022 - Learned more about error handling. 
+##### 03.12.2022 - Learned about authentication and conditional rendering.
 ##### 02.12.2022 - Worked on the blog and learned more about templating.
 ##### 01.12.2022 - Worked on the blog. 
 ##### 30.11.2022 - Learned about more about pug and worked on a Blog. 
