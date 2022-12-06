@@ -1,6 +1,7 @@
 # learning-journey
 My learning-journey:
 
+##### 06.12.2022 - Same as yesterday. 
 ##### 05.12.2022 - Worked on my linkshare project and continued with the node course. 
 ##### 04.12.2022 - Learned more about error handling. 
 ##### 03.12.2022 - Learned about authentication and conditional rendering.
