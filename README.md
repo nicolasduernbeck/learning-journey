@@ -1,6 +1,7 @@
 # learning-journey
 My learning-journey:
 
+##### 08.12.2022 - Worked on my project and continued with the course. 
 ##### 07.12.2022 - Worked on the styling on my linkshare project. 
 ##### 06.12.2022 - Same as yesterday. 
 ##### 05.12.2022 - Worked on my linkshare project and continued with the node course. 
