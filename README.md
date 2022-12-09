@@ -1,6 +1,7 @@
 # learning-journey
 My learning-journey:
 
+##### 09.12.2022 - Continued with the project and learned about stripe and email rendering. 
 ##### 08.12.2022 - Worked on my project and continued with the course. 
 ##### 07.12.2022 - Worked on the styling on my linkshare project. 
 ##### 06.12.2022 - Same as yesterday. 
