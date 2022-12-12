@@ -1,6 +1,7 @@
 # learning-journey
 My learning-journey:
 
+##### 12.12.2022 - Learned more about SQL. 
 ##### 11.12.2022 - Learned about SQL. 
 ##### 10.12.2022 - Completed the nodejs course. 
 ##### 09.12.2022 - Continued with the project and learned about stripe and email rendering. 
