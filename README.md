@@ -1,6 +1,6 @@
 # learning-journey
 My learning-journey:
-##### 17.12.2022 - Learned Mor about Node. 
+##### 17.12.2022 - Learned more about Node. 
 ##### 16.12.2022 - Had no time
 ##### 15.12.2022 - Had no time 
 ##### 14.12.2022 - Learned about SQL.
