@@ -1,5 +1,6 @@
 # learning-journey
 My learning-journey:
+##### 22.12.2022 - Learned more about node and planning a new project.
 ##### 21.12.2022 - Learned more about node.
 ##### 20.12.2022 - Completed the login panel from the UCP.
 ##### 19.12.2022 - Worked on a user control panel (UCP)
