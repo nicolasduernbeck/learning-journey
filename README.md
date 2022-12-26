@@ -1,5 +1,6 @@
 # learning-journey
 My learning-journey:
+##### 26.12.2022 - Learned about Methods, Computed - Properties and watchers.
 ##### 25.12.2022 - Learned the Vue basics
 ##### 24.12.2022 - Christmas 
 ##### 23.12.2022 - Learned about Web-Scraping with Puppeteer
