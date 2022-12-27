@@ -1,5 +1,6 @@
 # learning-journey
 My learning-journey:
+##### 27.12.2022 - Learned about conditional rendering.
 ##### 26.12.2022 - Learned about Methods, Computed - Properties and watchers.
 ##### 25.12.2022 - Learned the Vue basics
 ##### 24.12.2022 - Christmas 
