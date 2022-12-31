@@ -1,5 +1,6 @@
 # learning-journey
 My learning-journey:
+##### 31.12.2022 - Learned more about components. 
 ##### 30.12.2022 - Learned about custom events. 
 ##### 29.12.2022 - Learned about Vue Components and Props. 
 ##### 28.12.2022 - Learned more about conditional rendering.
