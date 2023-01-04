@@ -1,6 +1,7 @@
 # learning-journey
 My learning-journey:
-##### 03.01.2023 - Had no time to code.
+##### 04.01.2022 - Learned more about forms in vue. 
+##### 03.01.2023 - Started to learn Rust.
 ##### 02.01.2023 - Repeated everything I learned about vue.
 ##### 01.01.2023 - Learned more about components and learned about TypeScript. 
 ##### 31.12.2022 - Learned more about components. 
