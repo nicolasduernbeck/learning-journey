@@ -1,5 +1,7 @@
 # learning-journey
 My learning-journey:
+##### 06.01.2023 - Learned about using Firebase with vue. 
+##### 05.01.2022 - Learned about http requests with vue. 
 ##### 04.01.2022 - Learned more about forms in vue. 
 ##### 03.01.2023 - Started to learn Rust.
 ##### 02.01.2023 - Repeated everything I learned about vue.
