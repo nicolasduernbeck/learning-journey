@@ -1,5 +1,6 @@
 # learning-journey
 My learning-journey:
+##### 09.01.2023 - Learned more about routing with Vue.
 ##### 08.01.2023 - Started to work on a API and learned more about Routing with vue. 
 ##### 07.01.2023 - Worked with routing in Vue Apps.
 ##### 06.01.2023 - Learned about using Firebase with vue and Rust. 
