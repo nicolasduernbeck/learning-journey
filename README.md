@@ -1,5 +1,6 @@
 # learning-journey
 My learning-journey:
+##### 12.01.2023 - More on Vue Transitions. 
 ##### 11.01.2023 - Learned more about Transitions with vue. 
 ##### 10.01.2023 - Learned about transitions and animations with vue.
 ##### 09.01.2023 - Learned more about routing with Vue.
