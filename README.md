@@ -1,5 +1,6 @@
 # learning-journey
 My learning-journey:
+##### 14.01.2023 - Started to learn State Management with Vue. 
 ##### 13.01.2023 - Learned about transition groups. 
 ##### 12.01.2023 - More on Vue Transitions. 
 ##### 11.01.2023 - Learned more about Transitions with vue. 
