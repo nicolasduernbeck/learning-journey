@@ -1,5 +1,6 @@
 # learning-journey
 My learning-journey:
+##### 19.01.2023 - No time to code. 
 ##### 18.01.2023 - Practiced state management.
 ##### 17.01.2023 - Practiced state Learned about state management with vue. 
 ##### 16.02.2023 - Had no time to code.
