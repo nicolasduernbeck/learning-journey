@@ -1,5 +1,6 @@
 # learning-journey
 My learning-journey:
+##### 23.01.2023 - No time to code. 
 ##### 22.01.2023 - Practiced state management with vuex. 
 ##### 21.01.2023 - No time to code. 
 ##### 20.01.2023 - No time to code. 
