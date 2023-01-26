@@ -1,5 +1,6 @@
 # learning-journey
 My learning-journey:
+##### 26.01.2023 - No time to code. 
 ##### 25.01.2023 - Learned more about Vue.
 ##### 24.01.2023 - Finished to learn about state management. Learned Python basics.
 ##### 23.01.2023 - No time to code. 
