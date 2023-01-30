@@ -1,6 +1,6 @@
 # learning-journey
 My learning-journey:
-##### 30.01.2023 - Had no time to code.
+##### 30.01.2023 - Worked on the project.
 ##### 29.01.2023 - Worked on the project.
 ##### 28.01.2023 - Worked on the project.
 ##### 27.01.2023 - Worked on a Vue project.
