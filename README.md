@@ -1,5 +1,7 @@
 # learning-journey
 My learning-journey:
+##### 01.02.2023 - Completed the Vue Project.
+##### 31.01.2023 - Worked on the project.
 ##### 30.01.2023 - Worked on the project.
 ##### 29.01.2023 - Worked on the project.
 ##### 28.01.2023 - Worked on the project.
