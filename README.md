@@ -1,5 +1,6 @@
 # learning-journey
 My learning-journey:
+##### 05.02.2023 - Learned about Authentication with firebase and Vue.
 ##### 04.02.2023 - No time to code. 
 ##### 03.02.2023 - No time to code. 
 ##### 02.02.2023 - Learned about PowerShell Scripting
