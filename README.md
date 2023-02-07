@@ -1,5 +1,7 @@
 # learning-journey
 My learning-journey:
+##### 08.02.2023 - Learned more about Vue and Auth
+##### 07.02.2023 - Had no time 
 ##### 05.02.2023 - Learned about Authentication with firebase and Vue.
 ##### 04.02.2023 - No time to code. 
 ##### 03.02.2023 - No time to code. 
