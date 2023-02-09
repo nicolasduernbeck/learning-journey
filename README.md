@@ -1,6 +1,7 @@
 # learning-journey
 My learning-journey:
-##### 08.02.2023 - Learned more about AUth and PowerShell - Scripting.
+##### 09.02.2023 - Larned to deploy a Vue Application and learned about Big O - Notation. 
+##### 08.02.2023 - Learned more about Auth and PowerShell - Scripting.
 ##### 07.02.2023 - Learned more about Vue and Auth
 ##### 06.02.2023 - Had no time 
 ##### 05.02.2023 - Learned about Authentication with firebase and Vue.
