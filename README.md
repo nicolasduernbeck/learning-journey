@@ -1,5 +1,6 @@
 # learning-journey
 My learning-journey:
+##### 11.02.2023 - No time to Code. 
 ##### 10.02.2023 - Learned about the Composition API. 
 ##### 09.02.2023 - Larned to deploy a Vue Application and learned about Big O - Notation. 
 ##### 08.02.2023 - Learned more about Auth and PowerShell - Scripting.
