@@ -1,5 +1,6 @@
 # learning-journey
 My learning-journey:
+##### 13.02.2023 - Completed the Vue Course! Goal for tomorrow: Build a weather app.
 ##### 12.02.2023 - Started to work on a project. 
 ##### 11.02.2023 - No time to Code. 
 ##### 10.02.2023 - Learned about the Composition API. 
