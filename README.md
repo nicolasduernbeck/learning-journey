@@ -1,5 +1,6 @@
 # learning-journey
 My learning-journey:
+##### 16.02.2023 - No time to code. 
 ##### 15.02.2023 - Learned more about keyframe animations. 
 ##### 14.02.2023 - Started to build the weather app.
 ##### 13.02.2023 - Completed the Vue Course! Goal for tomorrow: Build a weather app.
