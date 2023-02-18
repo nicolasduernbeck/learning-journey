@@ -1,5 +1,6 @@
 # learning-journey
 My learning-journey:
+##### 18.02.2023 - Worked on the api for my sell-it project.
 ##### 17.02.2023 - Learned more about gradients. 
 ##### 16.02.2023 - No time to code. 
 ##### 15.02.2023 - Learned more about keyframe animations. 
