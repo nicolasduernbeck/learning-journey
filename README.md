@@ -1,5 +1,9 @@
 # learning-journey
 My learning-journey:
+##### 22.02.2023 - Learned more about CSS.
+##### 21.02.2023 - Worked on the sell-it frontend.
+##### 20.02.2023 - Learned more CSS features.
+##### 19.02.2023 - No time to code.
 ##### 18.02.2023 - Worked on the api for my sell-it project.
 ##### 17.02.2023 - Learned more about gradients. 
 ##### 16.02.2023 - No time to code. 
