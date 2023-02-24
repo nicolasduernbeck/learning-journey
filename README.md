@@ -1,5 +1,6 @@
 # learning-journey
 My learning-journey:
+##### 24.02.2023 - Had no time to code. 
 ##### 23.02.2023 - Had no time to code. 
 ##### 22.02.2023 - Learned more about CSS.
 ##### 21.02.2023 - Worked on the sell-it frontend.
