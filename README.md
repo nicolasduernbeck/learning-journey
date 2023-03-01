@@ -1,7 +1,8 @@
 # learning-journey
 My learning-journey:
-##### 28.02.2023 - Had No time. 
-##### 27.02.2023 - Had No time to code. 
+##### 01.03.2023 - Had No time to code. 
+##### 28.02.2023 - Had no time to code 
+##### 27.02.2023 - Had no time to code. 
 ##### 26.02.2023 - Had no time to code. 
 ##### 25.02.2023 - Learned about OAuth.
 ##### 24.02.2023 - Had no time to code. 
