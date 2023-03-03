@@ -1,5 +1,6 @@
 # learning-journey
 My learning-journey:
+##### 03.03.2023 - Had no time code. 
 ##### 02.03.2023 - Had no time to code. 
 ##### 01.03.2023 - Had No time to code. 
 ##### 28.02.2023 - Had no time to code 
