@@ -1,5 +1,6 @@
 # learning-journey
 My learning-journey:
+##### 07.03.2023 - Learned more about TypeScript. 
 ##### 06.03.2023 - Back to coding. Started to learn TypeScript.
 ##### 05.03.2023 - Had no time to code. 
 ##### 04.03.2023 - Had no time to code. 
