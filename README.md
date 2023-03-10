@@ -1,5 +1,6 @@
 # learning-journey
 My learning-journey:
+##### 10.03.2023 - Learned more about Classes with TypeScript.
 ##### 09.03.2023 - Learned more about Tuples.
 ##### 08.03.2023 - Learned about Tuples in TS.
 ##### 07.03.2023 - Learned more about TypeScript. 
